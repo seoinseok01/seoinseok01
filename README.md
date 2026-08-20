@@ -45,4 +45,4 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoinseok01&layout=compact&bg_color=60,77bb41,ffffff&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoinseok01&show_icons=true&theme=omni)
