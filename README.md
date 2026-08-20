@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:bada55,100:&height=180&text=매일%20기록하고%20발전하는%20Java%20백엔드%20개발자입니다.&animation=&fontColor=38571a&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:bada55,100:&height=180&text=매일%20기록하고%20발전하는%20Java%20백엔드%20개발자입니다.&animation=&fontColor=bada55&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 </h2>  
