@@ -46,4 +46,4 @@
            /> </div> 
     </div>
 </br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃 허 브 아 이 디&show_icons=true&theme=radical)   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoinseok01&show_icons=true&theme=radical)   
