@@ -4,7 +4,6 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 꾸준히 기록하고 성장하는 개발자입니다. <br>Java · Spring으로 서비스를 설계하고, AI 모델까지 직접 학습·서빙합니다.
-<img width="451" height="32" alt="image" src="https://github.com/user-attachments/assets/c1a108f6-a5d7-4c6e-a04d-b10d5b57d28a" />
 </div> 
     </div>
     <div style="text-align: left;">
